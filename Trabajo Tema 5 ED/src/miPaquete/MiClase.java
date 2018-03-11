@@ -1,13 +1,14 @@
 package miPaquete;
 
 public class MiClase {
-	private int nuevoAtributo;
+	private int nuevoAtributo1;
+	
 
 	public int getNuevoAtributo() {
-		return nuevoAtributo;
+		return getNuevoAtributo();
 	}
 
 	public void setNuevoAtributo(int nuevoAtributo) {
-		this.nuevoAtributo = nuevoAtributo;
+		this.nuevoAtributo1 = nuevoAtributo;
 	}
 }
